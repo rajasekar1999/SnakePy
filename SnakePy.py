@@ -65,4 +65,4 @@ while key != 27:
     
 curses.endwin()
 print("\nScore - " + str(score))
-print("http://bitemelater.in\n")
+print("Thank you for playing the game..\n")
